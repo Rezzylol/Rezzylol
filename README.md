@@ -1,8 +1,10 @@
 # Rezzylol
 ## About me
 
+I’m Oli/rezzy.
+
 Self-taught cyber security generalist focused on practical, hands-on work: CTF/TryHackMe writeups, log parsing, and automation tooling. I build reproducible lab writeups and small Python tools to automate detection and triage. Target roles: Junior SOC Analyst / Incident Responder / Security-focused Junior Dev.
-I’m Oli/rezzy. I enjoy tackling CTF challenges, automating boring tasks and making my own tools. 
+
 
 Outside of tech im a cracked gamer, Love going to conventions and making music!
 
