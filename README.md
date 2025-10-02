@@ -22,3 +22,5 @@ Outside of tech im a cracked gamer, Love going to conventions and making music!
 
 ---
 If you're hiring for SOC/IR/junior security dev roles, ping me: github.com/Rezzylol
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezzylol&show_icons=true&theme=radical)
