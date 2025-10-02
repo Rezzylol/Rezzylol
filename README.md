@@ -1,16 +1,16 @@
-## Hi there 👋
+# Rezzylol
 
-<!--
-**Rezzylol/Rezzylol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught cyber security generalist focused on practical, hands-on work: CTF/TryHackMe writeups, log parsing, and automation tooling. I build reproducible lab writeups and small Python tools to automate detection and triage. Target roles: Junior SOC Analyst / Incident Responder / Security-focused Junior Dev.
 
-Here are some ideas to get you started:
+## Skills
+- Python — scripting & automation (log parsing, small tools)
+- Linux — shell, system admin, networking troubleshooting
+- Cybersecurity — CTFs, TryHackMe/HTB, Wireshark, basic IR, OSINT gathering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick links
+- Resume: ask me kindly
+- Portfolio / Demos: https://github.com/Rezzylol?tab=repositories
+- Personal website: Rezzy.win (down after moving hosts currently)
+
+---
+If you're hiring for SOC/IR/junior security dev roles, ping me: github.com/Rezzylol
