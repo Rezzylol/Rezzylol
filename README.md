@@ -11,6 +11,7 @@ Outside of tech im a cracked gamer, Love going to conventions and making music!
 ## Skills
 - Python — scripting & automation (log parsing, small tools)
 - Linux — shell, system admin, networking troubleshooting
+- I use kali and debian!
 - Cybersecurity — CTFs, TryHackMe/HTB, Wireshark, basic IR, OSINT gathering
 
 ## Quick links
